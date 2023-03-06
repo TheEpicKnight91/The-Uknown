@@ -1,0 +1,4297 @@
+fileFormatVersion: 2
+guid: b64f2435a65481140b1ced8befdc7432
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature_humanoid
+    100002: body
+    100004: Bone_003_L_005
+    100006: Bone_003_R_005
+    100008: chest
+    100010: f_02_L
+    100012: f_02_R
+    100014: f_03_L
+    100016: f_03_R
+    100018: f_04_L
+    100020: f_04_R
+    100022: f_05_L
+    100024: f_05_R
+    100026: f_06_L
+    100028: f_06_R
+    100030: f_07_L
+    100032: f_07_R
+    100034: f_08_L
+    100036: f_08_R
+    100038: f_09_L
+    100040: f_09_R
+    100042: f_10_L
+    100044: f_10_R
+    100046: f_11_L
+    100048: f_11_R
+    100050: f_12_L
+    100052: f_12_R
+    100054: f_13_L
+    100056: f_13_R
+    100058: f_14_L
+    100060: f_14_R
+    100062: f_L
+    100064: f_R
+    100066: foot_L
+    100068: foot_R
+    100070: forearm_L
+    100072: forearm_R
+    100074: hand_L
+    100076: hand_R
+    100078: head
+    100080: heel_L
+    100082: heel_R
+    100084: hip
+    100086: jaw
+    100088: //RootNode
+    100090: neck
+    100092: Pole_01_L
+    100094: Pole_01_R
+    100096: Pole_02_L
+    100098: Pole_02_R
+    100100: root
+    100102: shin_L
+    100104: shin_R
+    100106: shoulder_L
+    100108: shoulder_R
+    100110: spine01
+    100112: thigh_L
+    100114: thigh_R
+    100116: toe_2_L
+    100118: toe_2_R
+    100120: toe_L
+    100122: toe_R
+    100124: tooth
+    100126: upper_arm_L
+    100128: upper_arm_R
+    400000: Armature_humanoid
+    400002: body
+    400004: Bone_003_L_005
+    400006: Bone_003_R_005
+    400008: chest
+    400010: f_02_L
+    400012: f_02_R
+    400014: f_03_L
+    400016: f_03_R
+    400018: f_04_L
+    400020: f_04_R
+    400022: f_05_L
+    400024: f_05_R
+    400026: f_06_L
+    400028: f_06_R
+    400030: f_07_L
+    400032: f_07_R
+    400034: f_08_L
+    400036: f_08_R
+    400038: f_09_L
+    400040: f_09_R
+    400042: f_10_L
+    400044: f_10_R
+    400046: f_11_L
+    400048: f_11_R
+    400050: f_12_L
+    400052: f_12_R
+    400054: f_13_L
+    400056: f_13_R
+    400058: f_14_L
+    400060: f_14_R
+    400062: f_L
+    400064: f_R
+    400066: foot_L
+    400068: foot_R
+    400070: forearm_L
+    400072: forearm_R
+    400074: hand_L
+    400076: hand_R
+    400078: head
+    400080: heel_L
+    400082: heel_R
+    400084: hip
+    400086: jaw
+    400088: //RootNode
+    400090: neck
+    400092: Pole_01_L
+    400094: Pole_01_R
+    400096: Pole_02_L
+    400098: Pole_02_R
+    400100: root
+    400102: shin_L
+    400104: shin_R
+    400106: shoulder_L
+    400108: shoulder_R
+    400110: spine01
+    400112: thigh_L
+    400114: thigh_R
+    400116: toe_2_L
+    400118: toe_2_R
+    400120: toe_L
+    400122: toe_R
+    400124: tooth
+    400126: upper_arm_L
+    400128: upper_arm_R
+    4300000: tooth
+    4300002: body
+    7400000: Default Take
+    7400002: 00
+    7400004: agonize_new
+    7400006: Attack
+    7400008: attack02
+    7400010: attack03_new
+    7400012: caution
+    7400014: damage
+    7400016: Dead
+    7400018: death02_new
+    7400020: down
+    7400022: eat
+    7400024: idle01
+    7400026: idle02
+    7400028: idle03_new
+    7400030: idle04_new
+    7400032: on_all_four_A
+    7400034: on_all_four_B
+    7400036: on_all_four_eat
+    7400038: run
+    7400040: walk01
+    7400042: walk02
+    7400044: Walk
+    9500000: //RootNode
+    13700000: body
+    13700002: tooth
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__meltyzombie_blue_diffuse_256_tga_001
+    second: {fileID: 2100000, guid: 38e88d5c00637434b8178966e7d7bad0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'spine01' is not an ancestor
+      of 'thigh_L'\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: agonize_new
+      takeName: agonize_new
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: attack01
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack02
+      takeName: attack02
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack03_new
+      takeName: attack03_new
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: caution
+      takeName: caution
+      firstFrame: 0
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: damage
+      takeName: damage
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead
+      takeName: death
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death02_new
+      takeName: death02_new
+      firstFrame: 0
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: down
+      takeName: down
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: eat
+      takeName: eat
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle01
+      takeName: idle01
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle02
+      takeName: idle02
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle03_new
+      takeName: idle03_new
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle04_new
+      takeName: idle04_new
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: on_all_four_A
+      takeName: on_all_four_A
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: on_all_four_B
+      takeName: on_all_four_B
+      firstFrame: 0
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: on_all_four_eat
+      takeName: on_all_four_eat
+      firstFrame: 0
+      lastFrame: 188
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk01
+      takeName: walk01
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk02
+      takeName: walk02
+      firstFrame: 0
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: walk03_new
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_humanoid
+        weight: 1
+      - path: Armature_humanoid/root
+        weight: 1
+      - path: Armature_humanoid/root/heel_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_L/toe_2_L
+        weight: 0
+      - path: Armature_humanoid/root/heel_R
+        weight: 0
+      - path: Armature_humanoid/root/heel_R/toe_2_R
+        weight: 0
+      - path: Armature_humanoid/root/hip
+        weight: 1
+      - path: Armature_humanoid/root/hip/Bone_003_L_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/Bone_003_R_005
+        weight: 0
+      - path: Armature_humanoid/root/hip/spine01
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/neck/head/jaw
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_03_L/f_04_L/f_05_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_06_L/f_07_L/f_08_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_09_L/f_10_L/f_11_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_12_L/f_13_L/f_14_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_L/upper_arm_L/forearm_L/hand_L/f_L/f_02_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_03_R/f_04_R/f_05_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_06_R/f_07_R/f_08_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_09_R/f_10_R/f_11_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_12_R/f_13_R/f_14_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/spine01/chest/shoulder_R/upper_arm_R/forearm_R/hand_R/f_R/f_02_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_L/shin_L/foot_L/toe_L
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: Armature_humanoid/root/hip/thigh_R/shin_R/foot_R/toe_R
+        weight: 1
+      - path: Armature_humanoid/root/Pole_01_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_01_R
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_L
+        weight: 0
+      - path: Armature_humanoid/root/Pole_02_R
+        weight: 0
+      - path: body
+        weight: 0
+      - path: tooth
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: spine01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hip
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_03_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_04_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_05_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_06_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_07_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_08_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_09_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_10_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_11_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_12_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_13_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_14_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_03_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_04_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_05_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_06_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_07_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_08_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_09_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_10_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_11_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_12_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_13_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_14_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Melty_Zombie_low(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature_humanoid
+      parentName: Melty_Zombie_low(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root
+      parentName: Armature_humanoid
+      position: {x: -0.001216002, y: 0, z: 0.00022000002}
+      rotation: {x: 0.50000006, y: 0.49999997, z: -0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel_L
+      parentName: root
+      position: {x: -0.00643244, y: -0.0061666304, z: 0.0125186695}
+      rotation: {x: -0.014141094, y: 0.98517454, z: 0.10146224, w: 0.13761026}
+      scale: {x: 0.9999996, y: 0.99999976, z: 0.99999994}
+    - name: toe_2_L
+      parentName: heel_L
+      position: {x: -0.004006728, y: 0.00057459105, z: -0.010543959}
+      rotation: {x: -0.00000008381903, y: 0.00000000365344, z: 0.0000000020281734,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel_R
+      parentName: root
+      position: {x: -0.00805621, y: 0.0034549693, z: -0.0167655}
+      rotation: {x: -0.010564723, y: 0.9893362, z: -0.108668886, w: -0.09640205}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: toe_2_R
+      parentName: heel_R
+      position: {x: -0.0051851827, y: -0.00013478035, z: -0.008177983}
+      rotation: {x: 0.000000088475645, y: 0.0000000034769982, z: -4.492907e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hip
+      parentName: root
+      position: {x: -0.04485936, y: 0.0012160074, z: -0.0011641827}
+      rotation: {x: 0.000000110389756, y: -0.014679905, z: 0.0000000016369552, w: 0.9998923}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Bone_003_L_005
+      parentName: hip
+      position: {x: -0.020208215, y: -0.015062644, z: 0.025080677}
+      rotation: {x: -0.00000015706449, y: -0.8023623, z: 0.000000111738046, w: 0.5968372}
+      scale: {x: 0.9999998, y: 1, z: 0.9999998}
+    - name: Bone_003_R_005
+      parentName: hip
+      position: {x: -0.021994803, y: 0.012662689, z: 0.02852292}
+      rotation: {x: -0.00000015706449, y: -0.8023623, z: 0.000000111738046, w: 0.5968372}
+      scale: {x: 0.9999998, y: 1, z: 0.9999998}
+    - name: spine01
+      parentName: hip
+      position: {x: -0.008988346, y: 6.169543e-10, z: 8.2709145e-11}
+      rotation: {x: -0.0011408817, y: 0.10212786, z: 0.015609556, w: 0.99464816}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: chest
+      parentName: spine01
+      position: {x: -0.009457335, y: 5.6313937e-10, z: -1.391163e-10}
+      rotation: {x: -0.0025126734, y: 0.050091606, z: 0.023394564, w: 0.99846745}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+    - name: neck
+      parentName: chest
+      position: {x: -0.0133038005, y: 8.288771e-10, z: -0.0000000012971577}
+      rotation: {x: -0.022268353, y: 0.108582206, z: -0.0078024482, w: 0.9938075}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: head
+      parentName: neck
+      position: {x: -0.0056595723, y: 5.9604643e-10, z: -0.0000000037136487}
+      rotation: {x: -0.031486318, y: -0.036331512, z: -0.014509123, w: 0.9987383}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: jaw
+      parentName: head
+      position: {x: -0.00034803417, y: -0.00000017551704, z: 0.001844957}
+      rotation: {x: 0.0071922815, y: 0.9072985, z: -0.018007418, w: 0.4200399}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_L
+      parentName: chest
+      position: {x: -0.011888606, y: -0.0026080513, z: 0.0026728478}
+      rotation: {x: -0.35048556, y: -0.35845888, z: 0.65607595, w: 0.5641201}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: upper_arm_L
+      parentName: shoulder_L
+      position: {x: -0.008828339, y: 0.00037518097, z: -0.0013299665}
+      rotation: {x: -0.11476144, y: 0.07337357, z: -0.05996417, w: 0.9888632}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999997}
+    - name: forearm_L
+      parentName: upper_arm_L
+      position: {x: -0.013551502, y: 0.000000006556511, z: 0.0000000032782554}
+      rotation: {x: -0.034539875, y: 0.013877678, z: -0.0053194296, w: 0.99929285}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: hand_L
+      parentName: forearm_L
+      position: {x: -0.01005399, y: -8.9406965e-10, z: -0.0000000013411044}
+      rotation: {x: 0.97257286, y: -0.085583605, z: 0.17980537, w: -0.120197825}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.99999964}
+    - name: f_03_L
+      parentName: hand_L
+      position: {x: -0.008206185, y: 0.0006629866, z: -0.0010608437}
+      rotation: {x: 0.18924621, y: 0.052046005, z: 0.00079316803, w: 0.9805491}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: f_04_L
+      parentName: f_03_L
+      position: {x: -0.002140937, y: 5.9604643e-10, z: -5.9604643e-10}
+      rotation: {x: 0.19602467, y: 0.027606495, z: -0.023486922, w: 0.9799289}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+    - name: f_05_L
+      parentName: f_04_L
+      position: {x: -0.001809158, y: 0.0000000023841857, z: -5.9604643e-10}
+      rotation: {x: 0.10462696, y: 0.050588153, z: -0.10206375, w: 0.9879661}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: f_06_L
+      parentName: hand_L
+      position: {x: -0.008135953, y: -0.0002493119, z: -0.00033225445}
+      rotation: {x: 0.19164455, y: 0.06419448, z: 0.015464207, w: 0.9792407}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: f_07_L
+      parentName: f_06_L
+      position: {x: -0.002025635, y: 0.0000000011920929, z: 5.9604643e-10}
+      rotation: {x: 0.19677836, y: 0.016495986, z: -0.029591594, w: 0.9798626}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: f_08_L
+      parentName: f_07_L
+      position: {x: -0.0017109948, y: 0.000000002980232, z: 0.0000000011920929}
+      rotation: {x: 0.0971287, y: 0.052714877, z: -0.10835158, w: 0.987951}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: f_09_L
+      parentName: hand_L
+      position: {x: -0.007118027, y: -0.0011372947, z: 0.00025632887}
+      rotation: {x: 0.18818131, y: 0.05792121, z: -0.01529203, w: 0.9803057}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999976}
+    - name: f_10_L
+      parentName: f_09_L
+      position: {x: -0.0020570937, y: 0.000000004172325, z: 0.0000000077486035}
+      rotation: {x: 0.1878443, y: 0.022554783, z: -0.024706703, w: 0.981629}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: f_11_L
+      parentName: f_10_L
+      position: {x: -0.0017109945, y: 0.0000000023841857, z: 5.9604643e-10}
+      rotation: {x: 0.097128846, y: 0.052714866, z: -0.10835159, w: 0.987951}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: f_12_L
+      parentName: hand_L
+      position: {x: -0.006281744, y: -0.0018036473, z: 0.0012974178}
+      rotation: {x: 0.19114256, y: 0.036149435, z: 0.014930281, w: 0.98078275}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: f_13_L
+      parentName: f_12_L
+      position: {x: -0.0015971886, y: -0.0000000047683715, z: -0.000000002980232}
+      rotation: {x: 0.18158016, y: 0.016833425, z: -0.029376503, w: 0.9827932}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: f_14_L
+      parentName: f_13_L
+      position: {x: -0.0014841368, y: -0.0000000023841857, z: 0.0000000011920929}
+      rotation: {x: 0.08494425, y: 0.03810689, z: -0.15450814, w: 0.98359525}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: f_L
+      parentName: hand_L
+      position: {x: -0.0049972003, y: 0.0019983388, z: -0.00003210306}
+      rotation: {x: 0.8830544, y: -0.31218743, z: 0.10443736, w: 0.33443516}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: f_02_L
+      parentName: f_L
+      position: {x: -0.0030833606, y: 0, z: 0.0000000047683715}
+      rotation: {x: -0.8216707, y: 0.044431992, z: -0.008041267, w: 0.56817114}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: shoulder_R
+      parentName: chest
+      position: {x: -0.011772817, y: 0.002812834, z: 0.0027063154}
+      rotation: {x: 0.34214133, y: -0.36473638, z: -0.68289536, w: 0.5325041}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+    - name: upper_arm_R
+      parentName: shoulder_R
+      position: {x: -0.008828339, y: -0.0003751707, z: -0.0013299477}
+      rotation: {x: 0.20639779, y: 0.051125288, z: 0.037823055, w: 0.9763993}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: forearm_R
+      parentName: upper_arm_R
+      position: {x: -0.01355151, y: 0.0000000020861626, z: 0.0000000070035457}
+      rotation: {x: 0.029541515, y: 0.023415098, z: -0.0033801424, w: 0.99928355}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999998}
+    - name: hand_R
+      parentName: forearm_R
+      position: {x: -0.010053989, y: 0.0000000011920929, z: 0.0000000032782554}
+      rotation: {x: 0.98635894, y: -0.06329915, z: 0.09328755, w: 0.11994467}
+      scale: {x: 0.9999995, y: 0.9999998, z: 1}
+    - name: f_03_R
+      parentName: hand_R
+      position: {x: -0.008206183, y: -0.0006629819, z: -0.0010608291}
+      rotation: {x: -0.18924618, y: 0.05204603, z: -0.0007931874, w: 0.9805491}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999994}
+    - name: f_04_R
+      parentName: f_03_R
+      position: {x: -0.002140944, y: -5.9604643e-10, z: 0.000000004172325}
+      rotation: {x: -0.19602466, y: 0.027604165, z: 0.02348194, w: 0.97992903}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: f_05_R
+      parentName: f_04_R
+      position: {x: -0.0018091568, y: -0.000000006556511, z: 0.0000000020861626}
+      rotation: {x: -0.10462695, y: 0.050588142, z: 0.10206376, w: 0.9879661}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: f_06_R
+      parentName: hand_R
+      position: {x: -0.008135953, y: 0.0002493185, z: -0.00033224208}
+      rotation: {x: -0.19164465, y: 0.06419158, z: -0.0154649485, w: 0.97924083}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: f_07_R
+      parentName: f_06_R
+      position: {x: -0.0020256373, y: -0.0000000017881393, z: 0.000000009834766}
+      rotation: {x: -0.19677846, y: 0.01649764, z: 0.02959261, w: 0.97986245}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: f_08_R
+      parentName: f_07_R
+      position: {x: -0.0017109899, y: 0.0000000017881393, z: -5.9604643e-10}
+      rotation: {x: -0.09712872, y: 0.052714843, z: 0.10835158, w: 0.987951}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999994}
+    - name: f_09_R
+      parentName: hand_R
+      position: {x: -0.007118026, y: 0.0011373002, z: 0.00025634078}
+      rotation: {x: -0.18818128, y: 0.05792279, z: 0.015292619, w: 0.98030555}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999976}
+    - name: f_10_R
+      parentName: f_09_R
+      position: {x: -0.0020570918, y: 0.0000000023841857, z: 0.00000000834465}
+      rotation: {x: -0.18784444, y: 0.022554938, z: 0.024707306, w: 0.9816289}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: f_11_R
+      parentName: f_10_R
+      position: {x: -0.0017109866, y: -0.000000006556511, z: 0.0000000023841857}
+      rotation: {x: -0.09712886, y: 0.052714895, z: 0.10835157, w: 0.9879509}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: f_12_R
+      parentName: hand_R
+      position: {x: -0.006281744, y: 0.0018036526, z: 0.0012974293}
+      rotation: {x: -0.19114254, y: 0.036149453, z: -0.014930294, w: 0.98078275}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: f_13_R
+      parentName: f_12_R
+      position: {x: -0.0015971863, y: 0.000000005364418, z: 0.0000000017601997}
+      rotation: {x: -0.18158053, y: 0.016830392, z: 0.029365795, w: 0.98279345}
+      scale: {x: 1, y: 0.9999999, z: 1.0000002}
+    - name: f_14_R
+      parentName: f_13_R
+      position: {x: -0.0014841395, y: -0.000000005960464, z: -1.4901161e-10}
+      rotation: {x: -0.08494428, y: 0.038106915, z: 0.15450814, w: 0.98359525}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: f_R
+      parentName: hand_R
+      position: {x: -0.0049972, y: -0.0019983351, z: -0.00003209304}
+      rotation: {x: 0.8878971, y: 0.31934807, z: 0.0484158, w: -0.32758442}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: f_02_R
+      parentName: f_R
+      position: {x: -0.003083361, y: -0.0000000047683715, z: 0.000000006556511}
+      rotation: {x: 0.8216708, y: 0.044431824, z: 0.008041258, w: 0.568171}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1}
+    - name: thigh_L
+      parentName: hip
+      position: {x: -0.005254061, y: -0.0042236713, z: -0.000909425}
+      rotation: {x: -0.09552298, y: -0.6388167, z: 0.7619924, w: -0.046433944}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.99999994}
+    - name: shin_L
+      parentName: thigh_L
+      position: {x: -0.025525443, y: -2.9802322e-10, z: 0}
+      rotation: {x: -0.68696004, y: 0.13215831, z: -0.16030501, w: 0.6963637}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999999}
+    - name: foot_L
+      parentName: shin_L
+      position: {x: -0.021681575, y: 0.0000000028312206, z: -0.0000000012293457}
+      rotation: {x: -0.088041626, y: -0.6857307, z: 0.11062745, w: 0.7139914}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: toe_L
+      parentName: foot_L
+      position: {x: -0.006562591, y: 9.685754e-10, z: 0.000000001490116}
+      rotation: {x: -0.008650133, y: -0.13446783, z: 0.041116986, w: 0.9900268}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: thigh_R
+      parentName: hip
+      position: {x: -0.0052540605, y: 0.0042236727, z: -0.00090942666}
+      rotation: {x: 0.017081618, y: 0.7310612, z: 0.6817633, w: -0.021366574}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999999}
+    - name: shin_R
+      parentName: thigh_R
+      position: {x: -0.025525447, y: 0.0000000020489097, z: -1.3969838e-10}
+      rotation: {x: 0.6821991, y: 0.14778003, z: 0.15724657, w: 0.69859785}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999998}
+    - name: foot_R
+      parentName: shin_R
+      position: {x: -0.021681573, y: 0.0000000017881393, z: 0.0000000010523945}
+      rotation: {x: 0.048885427, y: -0.39271507, z: -0.008327303, w: 0.91832227}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: toe_R
+      parentName: foot_R
+      position: {x: -0.0065625953, y: 3.1664968e-10, z: 0.0000000016018747}
+      rotation: {x: 0.003988425, y: -0.5302949, z: -0.065523, w: 0.8452681}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Pole_01_L
+      parentName: root
+      position: {x: -0.06203923, y: -0.022119768, z: -0.0154246455}
+      rotation: {x: -0.00000002669254, y: -0.7071067, z: -0.000000026692536, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pole_01_R
+      parentName: root
+      position: {x: -0.06475466, y: 0.021305148, z: -0.0154246455}
+      rotation: {x: -0.00000002669254, y: -0.7071067, z: -0.000000026692536, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pole_02_L
+      parentName: root
+      position: {x: -0.01745594, y: -0.0029000517, z: 0.02477166}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pole_02_R
+      parentName: root
+      position: {x: -0.01745594, y: 0.0067612384, z: 0.02477166}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: Melty_Zombie_low(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tooth
+      parentName: Melty_Zombie_low(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
